@@ -118,7 +118,7 @@ catalogo@data$Y.offset
 
 ```r annotate
 ## [1] 4118000 4120000 4118000 4120000
-```
+``` 
 
 ```r
 #Valores de offset de los archivos del catalogo. Coordenada Z
